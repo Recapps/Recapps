@@ -26,7 +26,7 @@ I bridge the gap between **Spatial Data** and **Software Solutions**. I speciali
 
  |
 | **Design** | Adobe Photoshop, Illustrator, Premiere Pro, After Effects 
-
+ 
  |
 
 ---
