@@ -41,18 +41,13 @@ A backend management system developed in **Java** to streamline data organizatio
 
 ### [Spatial Analysis & Remote Sensing]()
 
-* 
-**Seoul Classification:** Supervised and Unsupervised classification using ArcMap.
+* **Seoul Classification:** Supervised and Unsupervised classification using ArcMap.
 
 
-* 
-**Lahore Image Processing:** Advanced processing using ERDAS IMAGINE.
+* **Lahore Image Processing:** Advanced processing using ERDAS IMAGINE.
 
 
-* 
-**Automated Map Making:** Cartographic products generated via **R Programming**.
-
-
+* **Automated Map Making:** Cartographic products generated via **R Programming**.
 
 ---
 
