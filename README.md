@@ -27,15 +27,15 @@ I bridge the gap between **Spatial Data** and **Software Solutions**. I speciali
 
 ## 📂 Featured Projects
 
-### [CelestGIS](https://www.google.com/search?q=https://github.com/Recapps/celestgis)
+### [CelestGIS](https://github.com/Recapps/celestgis)
 
 A specialized web prototype for GIS learning built with **HTML, CSS, JS, and MySQL**.
 
-### [Indoor Navigator](https://www.google.com/search?q=https://github.com/Recapps/Path-Finder)
+### [Indoor Navigator](https://github.com/Recapps/Path-Finder)
 
 A navigation solution designed for the complex environment of the **National Museum of South Korea**.
 
-### [Game Library Management System](https://www.google.com/search?q=https://github.com/Recapps/Game-Library-Management-System)
+### [Game Library Management System](https://github.com/Recapps/Game-Library-Management-System)
 
 A backend management system developed in **Java** to streamline data organization.
 
