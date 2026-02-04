@@ -19,15 +19,9 @@ I bridge the gap between **Spatial Data** and **Software Solutions**. I speciali
 | Category | Tools & Languages |
 | --- | --- |
 | **Languages** | Python, Java, JavaScript, PHP, HTML, CSS, R 
-
- |
 | **Databases** | PostgreSQL, PostGIS, MySQL |
-| **GIS Software** | ArcGIS, ERDAS IMAGINE, Metashape 
-
- |
-| **Design** | Adobe Photoshop, Illustrator, Premiere Pro, After Effects 
- 
- |
+| **GIS Software** | ArcGIS, ERDAS IMAGINE, Metashape |
+| **Design** | Adobe Photoshop, Illustrator, Premiere Pro, After Effects |
 
 ---
 
